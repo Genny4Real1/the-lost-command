@@ -15,7 +15,7 @@ My name is Genny4Real1. I'm an Italian Europa Universalis IV player with almost 
 
 ## About the Mod
 
-The Lost Legion is a mod designed to create a crossover between real history and the world of the Anbennar submod.
+The Lost Command is a mod designed to create a crossover between real history and the world of the Anbennar submod.
 The mod (will) include:
 - A new nation with an original, fully-fledged mission tree, called The Lost Legion (more details in the story section).
 - New events and content for existing nations in the vanilla game, ensuring that the addition of the new nation is as immersive as possible (considering that the mod introduces a fantasy nation into a historical sandbox simulator).
